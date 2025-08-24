@@ -1,1 +1,3 @@
-# my-portfolio-project
+# 김재이 개발 포트폴리오 자료
+
+1. 
